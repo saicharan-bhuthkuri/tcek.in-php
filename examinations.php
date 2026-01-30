@@ -2,11 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Examinations - Trinity College of Engineering & Technology</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <?php include 'components/head.php'; ?>
     <style>
         /* Specific styles for Examinations page tables if needed overrides */
         .academics-section {
@@ -178,7 +175,7 @@
 
 <body>
 
-    <?php $page = 'examinations'; include 'header.php'; ?>
+    <?php $page = 'examinations'; include 'components/header.php'; ?>
 <!-- Main Content -->
     <main>
         <!-- Page Header -->
@@ -307,4 +304,4 @@
 
     </main>
 
-    <?php include 'footer.php'; ?>
+    <?php include 'components/footer.php'; ?>

@@ -2,16 +2,13 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trinity College of Engineering & Technology - Peddapalli</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <?php include 'components/head.php'; ?>
 </head>
 
 <body>
 
-    <?php $page = 'home'; include 'header.php'; ?>
+    <?php $page = 'home'; include 'components/header.php'; ?>
     <!-- Main Content -->
     <main>
         <!-- Hero Section -->
@@ -367,4 +364,4 @@
     <script src="js/tabs.js"></script>
     <script src="js/achievements.js"></script>
     <script src="js/slideshow.js"></script>
-    <?php include 'footer.php'; ?>
+    <?php include 'components/footer.php'; ?>

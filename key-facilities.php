@@ -2,15 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Key Facilities - Trinity College of Engineering & Technology</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <?php include 'components/head.php'; ?>
 </head>
 
 <body>
-    <?php $page = ''; include 'header.php'; ?>
+    <?php $page = ''; include 'components/header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Key Facilities</h1>
@@ -80,4 +77,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'footer.php'; ?>
+    <?php include 'components/footer.php'; ?>

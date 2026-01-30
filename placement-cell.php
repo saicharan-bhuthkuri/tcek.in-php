@@ -2,11 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Placements - Trinity College of Engineering & Technology</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <?php include 'components/head.php'; ?>
     <style>
         .page-header {
             background: #00b894;
@@ -217,7 +214,7 @@
 
 <body>
 
-    <?php $page = 'placement'; include 'header.php'; ?>
+    <?php $page = 'placement'; include 'components/header.php'; ?>
 <section class="tpo-section">
         <div class="container tpo-container">
             <div class="tpo-image">
@@ -343,4 +340,4 @@
         </div>
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include 'components/footer.php'; ?>
