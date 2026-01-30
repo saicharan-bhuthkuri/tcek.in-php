@@ -1,4 +1,7 @@
+php
 php/
+/php
+.git
 .git/
 *.bak
 *.zip
