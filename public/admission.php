@@ -253,8 +253,9 @@
 
 <body>
 
-    <?php $page = 'admission'; include 'components/header.php'; ?>
-<!-- Page Header -->
+    <?php $page = 'admission';
+    include 'components/header.php'; ?>
+    <!-- Page Header -->
     <section class="page-header">
         <h1>Admissions</h1>
         <p>Your Gateway to Excellence</p>
@@ -323,6 +324,255 @@
                             class="fas fa-arrow-right"></i></a>
                 </div>
 
+            </div>
+
+            <style>
+                /* New Premium Styles for Admission Documents Section */
+                .docs-section {
+                    padding: 80px 0;
+                    background: #fff;
+                }
+
+                .docs-header {
+                    text-align: center;
+                    margin-bottom: 60px;
+                }
+
+                .docs-header h2 {
+                    font-size: 36px;
+                    color: #2d3436;
+                    margin-bottom: 15px;
+                    font-weight: 700;
+                    position: relative;
+                    display: inline-block;
+                }
+
+                .docs-header h2::after {
+                    content: '';
+                    display: block;
+                    width: 60px;
+                    height: 4px;
+                    background: #00b894;
+                    margin: 15px auto 0;
+                    border-radius: 2px;
+                }
+
+                .docs-header p {
+                    color: #636e72;
+                    font-size: 18px;
+                    max-width: 600px;
+                    margin: 0 auto;
+                }
+
+                .docs-list {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 20px;
+                    max-width: 900px;
+                    margin: 0 auto;
+                }
+
+                .doc-item {
+                    display: flex;
+                    align-items: center;
+                    background: #fff;
+                    border: 1px solid #eee;
+                    border-radius: 12px;
+                    padding: 25px 30px;
+                    transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+                    position: relative;
+                    overflow: hidden;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+                }
+
+                .doc-item:hover {
+                    transform: translateY(-3px);
+                    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+                    border-color: #00b894;
+                }
+
+                .doc-item::before {
+                    content: '';
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    height: 100%;
+                    width: 4px;
+                    background: #00b894;
+                    transform: scaleY(0);
+                    transition: transform 0.3s ease;
+                    transform-origin: bottom;
+                }
+
+                .doc-item:hover::before {
+                    transform: scaleY(1);
+                }
+
+                .doc-icon {
+                    width: 60px;
+                    height: 60px;
+                    background: rgba(0, 184, 148, 0.08);
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: #00b894;
+                    font-size: 24px;
+                    margin-right: 25px;
+                    flex-shrink: 0;
+                    transition: all 0.3s ease;
+                }
+
+                .doc-item:hover .doc-icon {
+                    background: #00b894;
+                    color: #fff;
+                    transform: scale(1.1);
+                }
+
+                .doc-info {
+                    flex-grow: 1;
+                    padding-right: 20px;
+                }
+
+                .doc-info h3 {
+                    font-size: 20px;
+                    color: #2d3436;
+                    margin-bottom: 8px;
+                    font-weight: 600;
+                }
+
+                .doc-info p {
+                    font-size: 15px;
+                    color: #636e72;
+                    margin: 0;
+                }
+
+                .doc-action {
+                    flex-shrink: 0;
+                }
+
+                .download-btn {
+                    display: inline-flex;
+                    align-items: center;
+                    padding: 12px 24px;
+                    background: #fff;
+                    color: #00b894;
+                    border: 2px solid #00b894;
+                    border-radius: 30px;
+                    font-weight: 600;
+                    text-decoration: none;
+                    transition: all 0.3s ease;
+                    font-size: 14px;
+                }
+
+                .download-btn i {
+                    margin-left: 8px;
+                    font-size: 16px;
+                }
+
+                .download-btn:hover {
+                    background: #00b894;
+                    color: #fff;
+                    box-shadow: 0 5px 15px rgba(0, 184, 148, 0.3);
+                }
+
+                @media (max-width: 768px) {
+                    .doc-item {
+                        flex-direction: column;
+                        text-align: center;
+                        padding: 30px;
+                    }
+
+                    .doc-icon {
+                        margin: 0 0 20px 0;
+                    }
+
+                    .doc-info {
+                        padding: 0 0 20px 0;
+                    }
+                }
+            </style>
+
+            <!-- Admission Downloads Section -->
+            <div class="docs-section">
+                <div class="container">
+                    <div class="docs-header">
+                        <h2>Downloads & Resources</h2>
+                        <p>Everything you need for your admission process in one place.</p>
+                    </div>
+
+                    <div class="docs-list">
+                        <!-- Prospects -->
+                        <div class="doc-item">
+                            <div class="doc-icon"><i class="fas fa-book-reader"></i></div>
+                            <div class="doc-info">
+                                <h3>College Prospectus</h3>
+                                <p>Comprehensive guide to our courses, campus facilities, and student life highlights.</p>
+                            </div>
+                            <div class="doc-action">
+                                <a href="assets/Admission/PROSPECTS.pdf" target="_blank" class="download-btn">
+                                    Download PDF <i class="fas fa-file-download"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Admission process & Guidelines -->
+                        <div class="doc-item">
+                            <div class="doc-icon"><i class="fas fa-tasks"></i></div>
+                            <div class="doc-info">
+                                <h3>Admission Guidelines</h3>
+                                <p>Step-by-step instructions, eligibility criteria, and important dates for applicants.</p>
+                            </div>
+                            <div class="doc-action">
+                                <a href="assets/Admission/Admissions.pdf" target="_blank" class="download-btn">
+                                    Download PDF <i class="fas fa-file-download"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Admission Form -->
+                        <div class="doc-item">
+                            <div class="doc-icon"><i class="fas fa-file-signature"></i></div>
+                            <div class="doc-info">
+                                <h3>Application Form</h3>
+                                <p>Official admission application form. Fill and submit to the administrative office.</p>
+                            </div>
+                            <div class="doc-action">
+                                <a href="assets/Admission/FORM.pdf" target="_blank" class="download-btn">
+                                    Download Form <i class="fas fa-file-download"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Admission Fee Structure -->
+                        <div class="doc-item">
+                            <div class="doc-icon"><i class="fas fa-coins"></i></div>
+                            <div class="doc-info">
+                                <h3>Fee Structure</h3>
+                                <p>Detailed breakdown of tuition fees, hostel charges, and other applicable fees.</p>
+                            </div>
+                            <div class="doc-action">
+                                <a href="assets/Admission/Fee.pdf" target="_blank" class="download-btn">
+                                    View Details <i class="fas fa-file-download"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Fee Refund Policy -->
+                        <div class="doc-item">
+                            <div class="doc-icon"><i class="fas fa-shield-alt"></i></div>
+                            <div class="doc-info">
+                                <h3>Fee Refund Policy</h3>
+                                <p>Terms and conditions regarding fee refunds and admission cancellations.</p>
+                            </div>
+                            <div class="doc-action">
+                                <a href="assets/Admission/FEE REFUND.pdf" target="_blank" class="download-btn">
+                                    Read Policy <i class="fas fa-file-download"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
