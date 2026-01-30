@@ -1,0 +1,6 @@
+php/
+.git/
+*.bak
+*.zip
+*.rar
+refactor_move_components.php
