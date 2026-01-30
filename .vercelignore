@@ -1,9 +1,7 @@
-php
-php/
-/php
+/vendor
 .git
-.git/
-*.bak
-*.zip
-*.rar
-refactor_move_components.php
+.gitignore
+implementation_plan.md
+task.md
+php/
+
