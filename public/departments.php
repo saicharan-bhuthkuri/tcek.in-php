@@ -128,7 +128,7 @@
             <!-- B.Tech Content -->
             <div id="btech" class="tab-content" style="display: block;">
                 <div class="features-grid">
-                    <a href="#" class="course-card">
+                    <a href="dept-eee.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-bolt"></i></div>
                         <h3>EEE</h3>
                         <p>Electrical & Electronics Engineering</p>
