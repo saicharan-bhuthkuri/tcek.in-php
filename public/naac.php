@@ -299,7 +299,7 @@
                 </div>
             </a>
 
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-4.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-school"></i></div>
                 <div class="card-content">
                     <h4>Criteria 4</h4>
@@ -307,7 +307,7 @@
                 </div>
             </a>
 
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-5.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-user-graduate"></i></div>
                 <div class="card-content">
                     <h4>Criteria 5</h4>
@@ -315,7 +315,7 @@
                 </div>
             </a>
 
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-6.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-tasks"></i></div>
                 <div class="card-content">
                     <h4>Criteria 6</h4>
@@ -323,7 +323,7 @@
                 </div>
             </a>
 
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-7.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-hand-holding-heart"></i></div>
                 <div class="card-content">
                     <h4>Criteria 7</h4>
