@@ -291,7 +291,7 @@
                 </div>
             </a>
 
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-3.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-microscope"></i></div>
                 <div class="card-content">
                     <h4>Criteria 3</h4>
