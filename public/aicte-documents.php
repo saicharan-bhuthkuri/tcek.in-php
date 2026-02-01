@@ -128,14 +128,14 @@
 
         <div class="aicte-grid">
             <!-- Mandatory Disclosure -->
-            <a href="#" class="aicte-card">
+            <a href="naac-criteria-2.php" class="aicte-card">
                 <div class="aicte-icon"><i class="fas fa-file-alt"></i></div>
                 <h3>Mandatory Disclosure</h3>
                 <p>View Mandatory Disclosure documents.</p>
             </a>
 
             <!-- Essentials-AICTE -->
-            <a href="#" class="aicte-card">
+            <a href="aicte-essentials.php" class="aicte-card">
                 <div class="aicte-icon"><i class="fas fa-check-circle"></i></div>
                 <h3>Essentials-AICTE</h3>
                 <p>View AICTE Essentials documents.</p>
