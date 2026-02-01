@@ -165,4 +165,5 @@
 
     </main>
 
+    <script src="js/tabs.js"></script>
     <?php include 'components/footer.php'; ?>
