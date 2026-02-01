@@ -1,16 +1,89 @@
-# TCEK Website (PHP)
+<div align="center">
+  <img src="public/assets/screenshots/index.php.png" alt="TCEK Website" width="100%">
 
-**Live Website:** [https://tcek-ac-in.vercel.app/](https://tcek-ac-in.vercel.app/)
+  <h1 align="center">Trinity College of Engineering and Technology (TCEK)</h1>
 
-![Home Page Screenshot](public/assets/screenshots/index.php.png)
+  <p align="center">
+    A comprehensive, responsive institutional website built with vanilla PHP, HTML, and CSS.
+    <br />
+    <a href="https://tcek-ac-in.vercel.app/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://tcek-ac-in.vercel.app/">View Demo</a>
+    ·
+    <a href="https://github.com/saicharan-bhuthkuri/tcek.in-php/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/saicharan-bhuthkuri/tcek.in-php/issues">Request Feature</a>
+  </p>
+</div>
 
-This repository contains the source code for the **Trinity College of Engineering and Technology, Peddapally (TCEK)** website, built using vanilla PHP, HTML, and CSS.
+<div align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</div>
 
-## 📂 Project Structure
+<br />
 
-The project is specialized for deployment on Vercel while maintaining a standard PHP application structure.
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#deployment">Deployment</a></li>
+    <li><a href="#gallery">Gallery</a></li>
+  </ol>
+</details>
 
-The project is specialized for deployment on Vercel while maintaining a standard PHP application structure.
+---
+
+## About The Project
+
+This repository contains the source code for the **Trinity College of Engineering and Technology, Peddapally (TCEK)** website. It is designed to provide a seamless digital experience for students, faculty, and prospective applicants.
+
+The application allows users to access:
+- **Department Portals**: Detailed pages for EEE, ECE, CSE, etc., with dedicated tabs for faculty, labs, and achievements.
+- **Student Resources**: Examination schedules, library information, and grievance forms.
+- **Institutional Data**: Mandatory disclosures for NAAC, AICTE, and NIRF.
+
+## Built With
+
+*   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+*   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+*   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+*   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## Getting Started
+
+Follow these instructions to set up the project locally on your machine.
+
+### Prerequisites
+
+*   **PHP 8.0+**: Ensure PHP is installed and added to your system path.
+*   **Git**: Version control system.
+
+### Installation
+
+1.  Clone the repository
+    ```bash
+    git clone https://github.com/saicharan-bhuthkuri/tcek.in-php.git
+    cd tcek.in-php
+    ```
+
+2.  Start the local development server
+    ```bash
+    cd public
+    php -S localhost:8000
+    ```
+
+3.  Open your browser and navigate to `http://localhost:8000`
+
+## Project Structure
+
+The project is structured for optimal deployment on **Vercel** while maintaining a standard PHP codebase.
 
 ```txt
 tcek.in-php/
@@ -21,111 +94,28 @@ tcek.in-php/
 │   ├── assets/                     # Static Assets
 │   │   ├── Desirable-AICTE/        # AICTE Desirable Documents (PDFs)
 │   │   ├── Essentials-AICTE/       # AICTE Essential Documents (PDFs)
-│   │   └── img/                    # Website Images (Logos, Banners, Gallery)
+│   │   └── img/                    # Website Images
 │   ├── css/                        # Stylesheets
-│   │   ├── style.css               # Main stylesheet
-│   │   └── ...                     # Other CSS files
 │   ├── js/                         # JavaScript files
-│   │   ├── main.js                 # Main JavaScript logic
-│   │   └── ...                     # Other JS files
-│   ├── components/                 # (Conceptual) Includes
-│   │   ├── header.php              # Global Navigation and Header
-│   │   ├── footer.php              # Global Footer
-│   │   └── head.php                # Meta tags and CSS links
-│   ├── Main Pages:
-│   │   ├── index.php               # Home Page
-│   │   ├── about-us.php            # About College
-│   │   ├── contact.php             # Contact Information
-│   │   ├── admission.php           # Admission Details
-│   │   ├── gallery.php             # Photo Gallery
-│   │   ├── facilities.php          # Campus Facilities
-│   │   └── ...
-│   ├── Department Portals:
-│   │   ├── departments.php         # Departments Overview
-│   │   ├── dept-cse.php            # Computer Science & Engineering
-│   │   ├── dept-ece.php            # Electronics & Communication
-│   │   ├── dept-eee.php            # Electrical & Electronics
-│   │   ├── dept-hs.php             # Humanities & Sciences
-│   │   ├── dept-mba.php            # MBA Department
-│   │   ├── dept-aiml.php           # AI & ML Department
-│   │   └── ...
-│   ├── Accreditation & Compliance:
-│   │   ├── naac.php                # NAAC Overview
-│   │   ├── naac-criteria-*.php     # NAAC Criteria 1-7 Details
-│   │   ├── aicte-essentials.php    # AICTE Essential Disclosures
-│   │   ├── aicte-desirable.php     # AICTE Desirable Disclosures
-│   │   ├── nirf.php                # NIRF Ranking Data
-│   │   └── policies.php            # College Policies
-│   └── Examination & Resources:
-│       ├── examinations.php        # Exam Branch
-│       ├── library.php             # Library Info
-│       ├── placement-cell.php      # Placement Cell
-│       ├── student-grievance.php   # Grievance Redressal
-│       └── ...
+│   ├── components/                 # Reusable components (Header, Footer)
+│   ├── index.php                   # Home Page
+│   ├── dept-*.php                  # Department Portals (CSE, EEE, etc.)
+│   └── naac.php                    # Accreditation Pages
 └── vercel.json                     # Vercel Serverless Configuration
 ```
 
-### Key Directories
+## Deployment
 
-- **`public/`**  
-  The root directory for the web application. It contains all the visible pages and assets.
-  - **Pages**: `index.php`, `about-us.php`, `contact.php`, and department pages like `dept-cse.php`.
-  - **Components**: `header.php`, `footer.php`, `head.php` (reusable layout parts).
-  - **Assets**: `assets/` (images, PDFs), `css/`, `js/`.
-  - **Accreditation**: `naac.php`, `aicte-essentials.php`, `aicte-documents.php` and their related sub-pages.
+This project is optimized for the **Vercel PHP Runtime**.
 
-- **`api/`**  
-  Contains the backend entry point for Vercel Serverless Functions.
-  - `index.php`: Acts as a router/proxy to serve files from the `public/` directory in the Vercel environment.
+1.  **Framework Preset**: None (Other)
+2.  **Build Command**: None
+3.  **Root Directory**: `.` (Root)
+4.  **Environment Variables**: Not required for basic functioning.
 
-- **`php/`**  
-  Contains local PHP binaries and extensions. This folder allows for specific PHP runtime configurations involved in local testing or specific deployment scripts.
+The `vercel.json` configuration automatically routes all dynamic requests to `api/index.php`.
 
-- **`vercel.json`**  
-  Configuration file for Vercel. It sets up routes to handle static assets and directs dynamic requests to `api/index.php`.
+## Gallery
 
-## 🚀 Getting Started
-
-### Prerequisites
-- [PHP 8.0+](https://www.php.net/downloads)
-- [Composer](https://getcomposer.org/) (optional, if dependencies are added later)
-
-### Running Locally
-To run the project on your local machine:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/saicharan-bhuthkuri/tcek.in-php.git
-   cd tcek.in-php
-   ```
-
-2. **Start the built-in PHP server**:
-   You can run the server directly from the `public` directory to mimic the web root.
-   ```bash
-   cd public
-   php -S localhost:8000
-   ```
-
-3. **Browse the site**:
-   Open [http://localhost:8000](http://localhost:8000) in your web browser.
-
-## 🛠️ Deployment
-
-This project is designed to be deployed on **Vercel** with the `vercel-php` runtime.
-
-### Configuration (`vercel.json`)
-The configuration ensures that:
-- Requests to `/assets`, `/css`, and `/js` are served directly from `public/`.
-- All other requests are routed to `api/index.php` for processing.
-
-### Directory Handling
-The `api/index.php` script automatically maps URLs to the corresponding `.php` files in the `public/` directory, allowing for clean URLs (e.g., `/about-us` loads `public/about-us.php`).
-
-## 📚 Features
-
-- **Responsive Design**: tailored for both desktop and mobile viewing.
-- **Department Portals**: Detailed pages for EEE, ECE, CSE, etc., with tabs for About, Faculty, Labs, etc.
-- **Dynamic Navigation**: Active state highlighting for navigation menus.
-- **Documentation**: Extensive sections for NAAC and AICTE mandatory disclosures.
-
-
+**Department Portal Example (EEE)**
+![Department Page](public/assets/screenshots/dept-eee.php.png)
