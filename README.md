@@ -2,13 +2,20 @@
 
 **Live Website:** [https://tcek-ac-in.vercel.app/](https://tcek-ac-in.vercel.app/)
 
+### 🌟 About This Website
+
+This project is a comprehensive educational portal designed to serve the digital needs of **Trinity College of Engineering and Technology, Karimnagar**. It acts as a central hub for students, faculty, and administration, providing easy access to academic resources, department information, compliance documents, and campus updates.
+
+The website is built with a focus on:
+- **Accessibility**: Easy navigation for all users.
+- **Speed**: Lightweight vanilla PHP implementation for fast load times.
+- **Transparency**: Dedicated sections for mandatory disclosures (AICTE, NAAC, NIRF).
+
 ![Home Page Screenshot](public/assets/screenshots/index.php.png)
 
 This repository contains the source code for the **Trinity College of Engineering and Technology, Peddapally (TCEK)** website, built using vanilla PHP, HTML, and CSS.
 
 ## 📂 Project Structure
-
-The project is specialized for deployment on Vercel while maintaining a standard PHP application structure.
 
 The project is specialized for deployment on Vercel while maintaining a standard PHP application structure.
 
