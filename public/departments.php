@@ -133,27 +133,27 @@
                         <h3>EEE</h3>
                         <p>Electrical & Electronics Engineering</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="dept-ece.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-microchip"></i></div>
                         <h3>ECE</h3>
                         <p>Electronics & Communication Engineering</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="dept-cse.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-laptop-code"></i></div>
                         <h3>CSE</h3>
                         <p>Computer Science & Engineering</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="dept-aiml.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-brain"></i></div>
                         <h3>AIML</h3>
                         <p>Artificial Intelligence & Machine Learning</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="dept-cse-aiml.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-robot"></i></div>
                         <h3>CSE (AIML)</h3>
                         <p>Computer Science & Engineering (AI & ML)</p>
                     </a>
-                     <a href="#" class="course-card">
+                     <a href="dept-hs.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-flask"></i></div>
                         <h3>H & S</h3>
                         <p>Humanities & Sciences</p>
@@ -164,7 +164,7 @@
             <!-- MBA Content -->
             <div id="mba" class="tab-content">
                 <div class="features-grid" style="justify-content: center;">
-                    <a href="#" class="course-card" style="max-width: 400px; width: 100%;">
+                    <a href="dept-mba.php" class="course-card" style="max-width: 400px; width: 100%;">
                         <div class="course-icon-wrapper"><i class="fas fa-user-tie"></i></div>
                         <h3>MBA</h3>
                         <p>Master of Business Administration</p>
@@ -175,17 +175,17 @@
             <!-- Diploma Content -->
             <div id="diploma" class="tab-content">
                 <div class="features-grid">
-                    <a href="#" class="course-card">
+                    <a href="coming-soon.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-plug"></i></div>
                         <h3>Diploma in EEE</h3>
                         <p>Electrical & Electronics Engineering</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="coming-soon.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-satellite-dish"></i></div>
                         <h3>Diploma in ECE</h3>
                         <p>Electronics & Communication Engineering</p>
                     </a>
-                    <a href="#" class="course-card">
+                    <a href="coming-soon.php" class="course-card">
                         <div class="course-icon-wrapper"><i class="fas fa-desktop"></i></div>
                         <h3>Diploma in CSE</h3>
                         <p>Computer Science & Engineering</p>
