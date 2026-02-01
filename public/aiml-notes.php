@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>AIML Lecture Notes - E-CONTENT</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .search-container {
             max-width: 600px;
@@ -119,7 +119,7 @@
 </head>
 
 <body>
-    <?php $page = ''; include 'components/header.php'; ?>
+    <?php $page = ''; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header" style="margin-bottom: 0;">
         <h1>AIML Lecture Notes</h1>
@@ -330,7 +330,7 @@
                     <h3 class="semester-title">Semester 2</h3>
                     <div class="notes-grid">
                         <div class="note-card">
-                            <div class="subject-name">Project Stage â€“ II including Seminar</div>
+                            <div class="subject-name">Project Stage – II including Seminar</div>
                             <a href="#" class="download-btn"><i class="fas fa-download"></i> Download Notes</a>
                         </div>
                     </div>
@@ -346,4 +346,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

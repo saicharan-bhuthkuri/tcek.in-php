@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Examinations - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* Specific styles for Examinations page tables if needed overrides */
         .academics-section {
@@ -175,7 +175,7 @@
 
 <body>
 
-    <?php $page = 'examinations'; include 'components/header.php'; ?>
+    <?php $page = 'examinations'; include 'header.php'; ?>
 <!-- Main Content -->
     <main>
         <!-- Page Header -->
@@ -244,14 +244,14 @@
                                 <tbody>
                                     <tr>
                                         <td data-label="S.No.">1</td>
-                                        <td data-label="Name of the Examination">I YEAR B.TECH II SEMESTER â€“ R18
+                                        <td data-label="Name of the Examination">I YEAR B.TECH II SEMESTER – R18
                                             REGULATIONS SUPPLEMENTARY EXAMINATIONS</td>
                                         <td data-label="Month/Year">JUNE-2022</td>
                                         <td data-label="View"><a href="#" class="view-btn">View</a></td>
                                     </tr>
                                     <tr>
                                         <td data-label="S.No.">2</td>
-                                        <td data-label="Name of the Examination">B.TECH I YEAR I SEMESTER (CSE-ECE) â€“
+                                        <td data-label="Name of the Examination">B.TECH I YEAR I SEMESTER (CSE-ECE) –
                                             R18 REGULATIONS REGULAR-SUPPLY EXAMINATIONS</td>
                                         <td data-label="Month/Year">JUNE-2022</td>
                                         <td data-label="View"><a href="#" class="view-btn">View</a></td>
@@ -305,4 +305,4 @@
     </main>
 
     <script src="js/tabs.js"></script>
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

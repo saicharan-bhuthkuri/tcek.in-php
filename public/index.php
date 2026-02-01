@@ -1,14 +1,14 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Trinity College of Engineering & Technology - Peddapalli</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
 </head>
 
 <body>
 
-    <?php $page = 'home'; include 'components/header.php'; ?>
+    <?php $page = 'home'; include 'header.php'; ?>
     <!-- Main Content -->
     <main>
         <!-- Hero Section -->
@@ -364,4 +364,4 @@
     <script src="js/tabs.js"></script>
     <script src="js/achievements.js"></script>
     <script src="js/slideshow.js"></script>
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

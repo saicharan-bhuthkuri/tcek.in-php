@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Online Student Grievance Form - Trinity College</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .form-container {
             max-width: 800px;
@@ -88,7 +88,7 @@
 </head>
 
 <body>
-    <?php $page = ''; include 'components/header.php'; ?>
+    <?php $page = ''; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Online Student Grievance Form</h1>
@@ -212,4 +212,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

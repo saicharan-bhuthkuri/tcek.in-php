@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Admissions - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .page-header {
             background: linear-gradient(135deg, #00b894, #00cec9);
@@ -254,7 +254,7 @@
 <body>
 
     <?php $page = 'admission';
-    include 'components/header.php'; ?>
+    include 'header.php'; ?>
     <!-- Page Header -->
     <section class="page-header">
         <h1>Admissions</h1>
@@ -580,4 +580,4 @@
         </div>
     </section>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

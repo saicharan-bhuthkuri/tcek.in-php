@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Academics - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* Specific styles for Academics page tables if needed overrides */
         .academics-section {
@@ -45,7 +45,7 @@
 
 <body>
 
-    <?php $page = 'academics'; include 'components/header.php'; ?>
+    <?php $page = 'academics'; include 'header.php'; ?>
 <!-- Main Content -->
     <main>
         <!-- Page Header -->
@@ -166,4 +166,4 @@
     </main>
 
     <script src="js/tabs.js"></script>
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

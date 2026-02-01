@@ -1,13 +1,13 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Transport Facility - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
 </head>
 
 <body>
-    <?php $page = ''; include 'components/header.php'; ?>
+    <?php $page = ''; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Transport Facility</h1>
@@ -21,7 +21,7 @@
                 <div class="card" style="align-self: center;">
                     <h3><i class="fas fa-bus" style="color: #00b894; margin-right: 10px;"></i>College Buses</h3>
                     <p style="font-size: 16px; line-height: 1.8; color: #636e72; margin-bottom: 20px;">
-                        The Trinity College has their own six buses for studentsâ€™ transportation. These buses cover all
+                        The Trinity College has their own six buses for students’ transportation. These buses cover all
                         the important stops of Peddapalli city.
                     </p>
                     <ul class="styled-list">
@@ -42,4 +42,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

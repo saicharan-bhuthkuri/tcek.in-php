@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>AIML Department - TCEK</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* --- Global & Desktop Styles --- */
         
@@ -288,7 +288,7 @@
     </style>
 </head>
 <body>
-    <?php $page = 'departments'; include 'components/header.php'; ?>
+    <?php $page = 'departments'; include 'header.php'; ?>
 
     <section class="dept-header">
         <h1>Department of Artificial Intelligence and Machine Learning</h1>
@@ -405,6 +405,6 @@
 
     </div>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 </html>

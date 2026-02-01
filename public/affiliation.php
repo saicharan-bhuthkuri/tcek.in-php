@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Affiliation - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .affiliation-grid {
             display: grid;
@@ -84,7 +84,7 @@
 </head>
 
 <body>
-    <?php $page = 'affiliation'; include 'components/header.php'; ?>
+    <?php $page = 'affiliation'; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Affiliation</h1>
@@ -139,4 +139,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Coming Soon - TCEK</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .coming-soon-container {
             min-height: 60vh;
@@ -63,7 +63,7 @@
     </style>
 </head>
 <body>
-    <?php $page = 'departments'; include 'components/header.php'; ?>
+    <?php $page = 'departments'; include 'header.php'; ?>
 
     <div class="coming-soon-container">
         <div class="icon-wrapper">
@@ -80,6 +80,6 @@
         </a>
     </div>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 </html>

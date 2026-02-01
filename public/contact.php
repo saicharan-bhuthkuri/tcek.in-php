@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Contact Us - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .contact-section {
             padding: 60px 20px;
@@ -152,7 +152,7 @@
 </head>
 
 <body>
-    <?php $page = 'contact'; include 'components/header.php'; ?>
+    <?php $page = 'contact'; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Contact Us</h1>
@@ -233,4 +233,4 @@
     </div>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

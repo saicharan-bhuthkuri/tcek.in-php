@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Placements - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .page-header {
             background: #00b894;
@@ -214,7 +214,7 @@
 
 <body>
 
-    <?php $page = 'placement'; include 'components/header.php'; ?>
+    <?php $page = 'placement'; include 'header.php'; ?>
 <section class="tpo-section">
         <div class="container tpo-container">
             <div class="tpo-image">
@@ -301,7 +301,7 @@
                     made towards identified the change in their attitude.</p>
 
                 <p>The counsellor clarifies nature of concern, offers supports, encourages a deeper understanding of
-                    issues, and provides information and guidelines to work towards a problem â€“ solving solution.</p>
+                    issues, and provides information and guidelines to work towards a problem – solving solution.</p>
 
                 <p>The personal counselling is done for 250 students on various issues like improper behaviour,
                     irregularity to college, not being punctual to college, being poor in academics subjects etc.</p>
@@ -340,4 +340,4 @@
         </div>
     </section>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

@@ -3,7 +3,7 @@
 
 <head>
     <title>UGC - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .ugc-section {
             padding: 40px 20px;
@@ -44,7 +44,7 @@
 
 <body>
     <?php $page = 'ugc';
-    include 'components/header.php'; ?>
+    include 'header.php'; ?>
     <!-- Page Header -->
     <section class="page-header">
         <h1>University Grants Commission (UGC)</h1>
@@ -60,7 +60,7 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 
 </html>

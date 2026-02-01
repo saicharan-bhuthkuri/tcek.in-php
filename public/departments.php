@@ -3,7 +3,7 @@
 
 <head>
     <title>Departments - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* Reusing and extending existing styles for consistency */
         .features-grid {
@@ -107,7 +107,7 @@
 </head>
 
 <body>
-    <?php $page = 'departments'; include 'components/header.php'; ?>
+    <?php $page = 'departments'; include 'header.php'; ?>
 
     <!-- Page Header -->
     <section class="page-header">
@@ -196,7 +196,7 @@
         </div>
     </section>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 
     <script src="js/tabs.js"></script>
 

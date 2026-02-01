@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Women Protection Cell - Trinity College</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .content-container {
             max-width: 1000px;
@@ -64,7 +64,7 @@
 </head>
 
 <body>
-    <?php $page = ''; include 'components/header.php'; ?>
+    <?php $page = ''; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Women Protection Cell</h1>
@@ -124,4 +124,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

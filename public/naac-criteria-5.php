@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Criteria 5 - Student Support & Progression - TCEK</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* --- Page Base --- */
         body {
@@ -134,7 +134,7 @@
     </style>
 </head>
 <body>
-    <?php $page = 'naac'; include 'components/header.php'; ?>
+    <?php $page = 'naac'; include 'header.php'; ?>
 
     <!-- Page Header -->
     <header class="page-header-section">
@@ -432,6 +432,6 @@
 
     </div>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 </html>

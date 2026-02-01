@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>About Us - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         .about-grid {
             display: grid;
@@ -88,7 +88,7 @@
 </head>
 
 <body>
-    <?php $page = 'about'; include 'components/header.php'; ?>
+    <?php $page = 'about'; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>About Us</h1>
@@ -149,4 +149,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

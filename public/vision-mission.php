@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Vision & Mission - Trinity College of Engineering & Technology</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* Shared Styles */
         body {
@@ -174,7 +174,7 @@
 </head>
 
 <body>
-    <?php $page = ''; include 'components/header.php'; ?>
+    <?php $page = ''; include 'header.php'; ?>
 <!-- Page Header -->
     <section class="page-header">
         <h1>Vision & Mission</h1>
@@ -233,4 +233,4 @@
     </section>
 
     <!-- Footer -->
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>

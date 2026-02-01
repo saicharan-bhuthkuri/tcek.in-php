@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>AICTE Essentials - TCEK</title>
-    <?php include 'components/head.php'; ?>
+    <?php include 'head.php'; ?>
     <style>
         /* --- Page Base --- */
         body {
@@ -104,7 +104,7 @@
     </style>
 </head>
 <body>
-    <?php $page = 'aicte'; include 'components/header.php'; ?>
+    <?php $page = 'aicte'; include 'header.php'; ?>
 
     <!-- Page Header -->
     <header class="page-header-section">
@@ -406,6 +406,6 @@
         </ul>
     </div>
 
-    <?php include 'components/footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
 </html>
