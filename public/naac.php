@@ -275,7 +275,7 @@
         </div>
         
         <div class="grid-layout">
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-1.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-book-open"></i></div>
                 <div class="card-content">
                     <h4>Criteria 1</h4>
