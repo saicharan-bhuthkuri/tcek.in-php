@@ -4,7 +4,7 @@
 
 ### 🌟 About This Website
 
-This project is a comprehensive educational portal designed to serve the digital needs of **Trinity College of Engineering and Technology, Karimnagar**. It acts as a central hub for students, faculty, and administration, providing easy access to academic resources, department information, compliance documents, and campus updates.
+This project is a comprehensive educational portal designed to serve the digital needs of **Trinity College of Engineering and Technology, Peddapally**. It acts as a central hub for students, faculty, and administration, providing easy access to academic resources, department information, compliance documents, and campus updates.
 
 The website is built with a focus on:
 - **Accessibility**: Easy navigation for all users.
