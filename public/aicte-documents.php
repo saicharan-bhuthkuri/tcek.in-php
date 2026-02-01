@@ -142,7 +142,7 @@
             </a>
 
             <!-- Desirable-AICTE -->
-            <a href="#" class="aicte-card">
+            <a href="aicte-desirable.php" class="aicte-card">
                 <div class="aicte-icon"><i class="fas fa-star"></i></div>
                 <h3>Desirable-AICTE</h3>
                 <p>View AICTE Desirable documents.</p>

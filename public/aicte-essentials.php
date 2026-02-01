@@ -117,203 +117,203 @@
 
         <ul class="doc-list">
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/1.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/1.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">1.</span>
                     <span class="doc-title">Establishment of Online Grievance Rederssal Mechanism</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/2.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/2.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">2.</span>
                     <span class="doc-title">Establishment of Anti Ragging Committee</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/3.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/3.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">3.</span>
                     <span class="doc-title">Establishment of Grievance Redressal Committee in the Institution and/or Appointment of OMBUDSMAN by the University</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/4.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/4.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">4.</span>
                     <span class="doc-title">Establishment of Internal Committee (IC): (along with Annual Report)</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/5.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/5.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">5.</span>
                     <span class="doc-title">Establishment of Committee For SC/ST</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/6.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/6.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">6.</span>
                     <span class="doc-title">Internal Quality Assurance Cell</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/7.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/7.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">7.</span>
                     <span class="doc-title">Barrier free Environment</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/8.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/8.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">8.</span>
                     <span class="doc-title">Fire and Safety Certificate</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/9.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/9.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">9.</span>
                     <span class="doc-title">Fire and Safety Certificate</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/10.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/10.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">10.</span>
                     <span class="doc-title">Atleast 5 MoUs with Industries</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/11.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/11.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">11.</span>
                     <span class="doc-title">Compliance of the Academic Bank of Credit (ABC) as per MoE directives</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/12.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/12.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">12.</span>
                     <span class="doc-title">Whether the Institution has Implemented Safety and Security measures in the Campus</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/13.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/13.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">13.</span>
                     <span class="doc-title">Implementing Food Safety and Standard Act, 2006 in the Institution</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/14.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/14.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">14.</span>
                     <span class="doc-title">Digital Payment for all Financial Transactions as per MHRD Directives</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/15.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/15.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">15.</span>
                     <span class="doc-title">Display of information submitted to AICTE (including the accreditation status and Board of Governors) along with mandatory disclosures in the Web site of the Institution</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/16.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/16.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">16.</span>
                     <span class="doc-title">Potable Water Supply</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/17.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/17.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">17.</span>
                     <span class="doc-title">Electrical Grid Power Supply Connection</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/18.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/18.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">18.</span>
                     <span class="doc-title">Backup Electric Supply</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/19.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/19.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">19.</span>
                     <span class="doc-title">Sports Facilities</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/20.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/20.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">20.</span>
                     <span class="doc-title">Waste Management and environment improvement measures to ensure a sustainable Green Campus</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/21.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/21.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">21.</span>
                     <span class="doc-title">Sewage Disposal System</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/22.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/22.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">22.</span>
                     <span class="doc-title">Display Board within the premises as well as in the Website of the Institution Indicating the Feedback Facility of Students and Faculty Available in the AICTE Web Portal</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/23.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/23.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">23.</span>
                     <span class="doc-title">First Aid, Medical and counselling facilities</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/24.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/24.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">24.</span>
                     <span class="doc-title">Insurance for Students</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/25.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/25.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">25.</span>
                     <span class="doc-title">Group Accident Policy to be provided for the Employees</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/26.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/26.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">26.</span>
                     <span class="doc-title">All Weather Approach (Motorized Road)</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/27.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/27.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">27.</span>
                     <span class="doc-title">Institution-Industry Cell</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/28.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/28.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">28.</span>
                     <span class="doc-title">Copies of AICTE Approvals (LOI, LOA and EOA of subsequent years) obtained since Inception of Institution till date shall be placed in the Website of the Institution</span>
                 </a>
             </li>
             <li class="doc-item">
-                <a href="assets/Essentials-AICTE/29.pdf" target="_blank" class="doc-link">
+                <a href="assets/AICTE DOCUMENTS/Essentials-AICTE/29.pdf" target="_blank" class="doc-link">
                     <span class="doc-icon"><i class="fas fa-file-pdf"></i></span>
                     <span class="doc-number">29.</span>
                     <span class="doc-title">Appointment of Student Counselor</span>
