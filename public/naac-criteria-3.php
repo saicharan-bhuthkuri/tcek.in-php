@@ -153,27 +153,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.2.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.2.2(1).pdf" target="_blank" class="doc-link">
                         <span>3.2.2(1) Documents related to Seminars /Workshops organized during the A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.2.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.2.2(2).pdf" target="_blank" class="doc-link">
                         <span>3.2.2(2) Documents related to Seminars /Workshops organized during the A.Y 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.2.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.2.2(3).pdf" target="_blank" class="doc-link">
                         <span>3.2.2(3) Documents related to Seminars /Workshops organized during the A.Y 2019-20</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/3.2.2(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.2.2(4).pdf" target="_blank" class="doc-link">
                         <span>3.2.2(4) Documents related to Seminars /Workshops organized during the A.Y 2018-19</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/3.2.2(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.2.2(5).pdf" target="_blank" class="doc-link">
                         <span>3.2.2(5) Documents related to Seminars /Workshops organized during the A.Y 2017-18</span>
                     </a>
                 </li>
@@ -188,7 +188,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.3.2.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.3.2.pdf" target="_blank" class="doc-link">
                         <span>3.3.2 e-copies of first page, content page and participation of conferences during the Assessment period</span>
                     </a>
                 </li>
@@ -203,7 +203,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.1.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.1.pdf" target="_blank" class="doc-link">
                         <span>3.4.1 List of extension activities during the Assessment period</span>
                     </a>
                 </li>
@@ -218,7 +218,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.2.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.2.pdf" target="_blank" class="doc-link">
                         <span>3.4.2 e-copies of recognisation letter for extension activities during the Assessment period</span>
                     </a>
                 </li>
@@ -233,27 +233,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.3(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.3(1).pdf" target="_blank" class="doc-link">
                         <span>3.4.3(1) Documents related to organized extension activities during A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.3(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.3(2).pdf" target="_blank" class="doc-link">
                         <span>3.4.3(2) Documents related to organized extension activities during A.Y 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.3(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.3(3).pdf" target="_blank" class="doc-link">
                         <span>3.4.3(3) Documents related to organized extension activities during A.Y 2019-20</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.3(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.3(4).pdf" target="_blank" class="doc-link">
                         <span>3.4.3(4) Documents related to organized extension activities during A.Y 2018-19</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.4.3(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.4.3(5).pdf" target="_blank" class="doc-link">
                         <span>3.4.3(5) Documents related to organized extension activities during A.Y 2017-18</span>
                     </a>
                 </li>
@@ -268,27 +268,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/3.5.1(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.5.1(1).pdf" target="_blank" class="doc-link">
                         <span>3.5.1(1) e-copies of MoUs established in A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.5.1(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.5.1(2).pdf" target="_blank" class="doc-link">
                         <span>3.5.1(2) e-copies of MoUs established in A.Y 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.5.1(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.5.1(3).pdf" target="_blank" class="doc-link">
                         <span>3.5.1(3) e-copies of MoUs established in A.Y 2019-20</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.5.1(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.5.1(4).pdf" target="_blank" class="doc-link">
                         <span>3.5.1(4) e-copies of MoUs established in A.Y 2018-19</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/3.5.1(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-3/3.5.1(5).pdf" target="_blank" class="doc-link">
                         <span>3.5.1(5) e-copies of MoUs established in A.Y 2017-18</span>
                     </a>
                 </li>

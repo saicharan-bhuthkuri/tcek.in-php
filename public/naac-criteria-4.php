@@ -153,7 +153,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/4.1.1.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-4/4.1.1.pdf" target="_blank" class="doc-link">
                         <span>4.1.1 Photographs for Physical Facilities and Academic Facilities</span>
                     </a>
                 </li>
@@ -168,17 +168,17 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/4.3.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-4/4.3.2(1).pdf" target="_blank" class="doc-link">
                         <span>4.3.2(1) Student Computer Ratio_20230801_0001</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/4.3.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-4/4.3.2(2).pdf" target="_blank" class="doc-link">
                         <span>4.3.2(2) Invoices of the Computer</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/4.3.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-4/4.3.2(3).pdf" target="_blank" class="doc-link">
                         <span>4.3.2(3) Stock Register Entry</span>
                     </a>
                 </li>

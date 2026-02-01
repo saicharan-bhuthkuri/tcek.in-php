@@ -153,27 +153,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/6.2.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.2.2(1).pdf" target="_blank" class="doc-link">
                         <span>6.2.2(1) Policy on E-Goverence</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.2.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.2.2(2).pdf" target="_blank" class="doc-link">
                         <span>6.2.2(2) Invoices</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.2.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.2.2(3).pdf" target="_blank" class="doc-link">
                         <span>6.2.2(3) Screenshots</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.2.2(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.2.2(4).pdf" target="_blank" class="doc-link">
                         <span>6.2.2(4) ERP Document</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.2.2(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.2.2(5).pdf" target="_blank" class="doc-link">
                         <span>6.2.2(5) Annual Report</span>
                     </a>
                 </li>
@@ -188,37 +188,37 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(1).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(1) Policy Document</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(2).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(2) List of teachers benefited by Financial support for A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(3).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(3) List of teachers benefited by Financial support for A.Y- 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.2(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(4).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(4) List of teachers benefited by Financial support for A.Y- 2019-20</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/6.3.2(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(5).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(5) List of teachers benefited by Financial support for A.Y-2018-19</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/6.3.2(6).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(6).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(6) List of teachers benefited by Financial support for A.Y-2017-18</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/6.3.2(7).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.2(7).pdf" target="_blank" class="doc-link">
                         <span>6.3.2(7) Audited Statements</span>
                     </a>
                 </li>
@@ -233,17 +233,17 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.3(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.3(1).pdf" target="_blank" class="doc-link">
                         <span>6.3.3(1) Professional Development program for AY 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.3(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.3(2).pdf" target="_blank" class="doc-link">
                         <span>6.3.3(2) Professional Development program for AY 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/6.3.3(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-6/6.3.3(3).pdf" target="_blank" class="doc-link">
                         <span>6.3.3(3) Professional Development program for AY 2019-20</span>
                     </a>
                 </li>

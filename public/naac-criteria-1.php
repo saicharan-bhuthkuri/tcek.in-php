@@ -152,7 +152,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.1.1.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.1.1.pdf" target="_blank" class="doc-link">
                         <span>Documents related to curriculum planning & Implementation</span>
                     </a>
                 </li>
@@ -167,27 +167,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.1(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.1(1).pdf" target="_blank" class="doc-link">
                         <span>1.2.1 (1) Documents related to Add-on programs for A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.1(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.1(2).pdf" target="_blank" class="doc-link">
                         <span>1.2.1 (2) Documents related to Add-on programs for A.Y 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.1(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.1(3).pdf" target="_blank" class="doc-link">
                         <span>1.2.1 (3) Documents related to Add-on programs for A.Y 2019-20</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.1(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.1(4).pdf" target="_blank" class="doc-link">
                         <span>1.2.1 (4) Documents related to Add-on programs for A.Y 2018-19</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.1(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.1(5).pdf" target="_blank" class="doc-link">
                         <span>1.2.1 (5) Documents related to Add-on programs for A.Y 2017-18</span>
                     </a>
                 </li>
@@ -202,27 +202,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.2(1).pdf" target="_blank" class="doc-link">
                         <span>1.2.2(1) List of students enrolled in certificate program for A.Y 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.2(2).pdf" target="_blank" class="doc-link">
                         <span>1.2.2(2) List of students enrolled in certificate program for A.Y 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.2(3).pdf" target="_blank" class="doc-link">
                         <span>1.2.2(3) List of students enrolled in certificate program for A.Y 2019-20</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.2(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.2(4).pdf" target="_blank" class="doc-link">
                         <span>1.2.2(4) List of students enrolled in certificate program for A.Y 2018-19</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.2.2(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.2.2(5).pdf" target="_blank" class="doc-link">
                         <span>1.2.2(5) List of students enrolled in certificate program for A.Y 2017-18</span>
                     </a>
                 </li>
@@ -236,7 +236,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.3.1.pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.3.1.pdf" target="_blank" class="doc-link">
                         <span>1.3.1 Documents related to Academic enrichment</span>
                     </a>
                 </li>
@@ -250,7 +250,7 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.3.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.3.2(1).pdf" target="_blank" class="doc-link">
                         <span>1.3.2(1) Project work</span>
                     </a>
                 </li>
@@ -265,17 +265,17 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/1.4.1(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.4.1(1).pdf" target="_blank" class="doc-link">
                         <span>1.4.1(1) Sample filled feedback forms</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.4.1(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.4.1(2).pdf" target="_blank" class="doc-link">
                         <span>1.4.1(2) Feedback analysis</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/1.4.1(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-1/1.4.1(3).pdf" target="_blank" class="doc-link">
                         <span>1.4.1(3) Action taken report</span>
                     </a>
                 </li>

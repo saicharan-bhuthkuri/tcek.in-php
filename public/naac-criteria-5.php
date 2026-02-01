@@ -153,27 +153,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.1(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.1(1).pdf" target="_blank" class="doc-link">
                         <span>5.1.1(1) Sanction letters and List of students benefited by government in AY2021-2022</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.1(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.1(2).pdf" target="_blank" class="doc-link">
                         <span>5.1.1(2) Sanction letters and List of students benefited by government in AY2020-2021</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.1(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.1(3).pdf" target="_blank" class="doc-link">
                         <span>5.1.1(3) Sanction letters and List of students benefited by government in AY 2019-2020</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.1(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.1(4).pdf" target="_blank" class="doc-link">
                         <span>5.1.1(4) Sanction letters and List of students benefited by government in AY2018-2019</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.1(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.1(5).pdf" target="_blank" class="doc-link">
                         <span>5.1.1(5) Sanction letters and List of students benefited by government in AY 2017-2018</span>
                     </a>
                 </li>
@@ -188,22 +188,22 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.2(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.2(1).pdf" target="_blank" class="doc-link">
                         <span>5.1.2(1) Documents related to organised softskills programmes diring the assessment period</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.2(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.2(2).pdf" target="_blank" class="doc-link">
                         <span>5.1.2(2) Documents related to organised language and communiction skills programmes diring the assessment period</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.2(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.2(3).pdf" target="_blank" class="doc-link">
                         <span>5.1.2(3) Documents related to organised Life Skill programmes diring the assessment period</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.2(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.2(4).pdf" target="_blank" class="doc-link">
                         <span>5.1.2(4) Documents related to organised ICT communication skills programmes diring the assessment period ICT</span>
                     </a>
                 </li>
@@ -218,27 +218,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.3(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.3(1).pdf" target="_blank" class="doc-link">
                         <span>5.1.3(1) Document for related to guidance for Competative Exam and Career Counselling AY 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.3(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.3(2).pdf" target="_blank" class="doc-link">
                         <span>5.1.3(2) Document for related to guidance for Competative Exam and Career Counselling AY 2020-21</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.3(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.3(3).pdf" target="_blank" class="doc-link">
                         <span>5.1.3(3) Document for related to guidance for Competative Exam and Career Counselling AY 2019-20</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.3(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.3(4).pdf" target="_blank" class="doc-link">
                         <span>5.1.3(4) Document for related to guidance for Competative Exam and Career Counselling AY 2018-19</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.3(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.3(5).pdf" target="_blank" class="doc-link">
                         <span>5.1.3(5) Document for related to guidance for Competative Exam and Career Counselling AY 2017-18</span>
                     </a>
                 </li>
@@ -253,22 +253,22 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.4(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.4(1).pdf" target="_blank" class="doc-link">
                         <span>5.1.4(1) Minutes of ANTI RAGGING</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.4(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.4(2).pdf" target="_blank" class="doc-link">
                         <span>5.1.4(2) Minutes of WOMEN PROTECTION CELL</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.4(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.4(3).pdf" target="_blank" class="doc-link">
                         <span>5.1.4(3) Grievance Redressel Committe</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.1.4(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.1.4(4).pdf" target="_blank" class="doc-link">
                         <span>5.1.4(4) Sample undertaking form</span>
                     </a>
                 </li>
@@ -288,27 +288,27 @@
             </div>
             <ul class="doc-list">
                 <li class="doc-item">
-                    <a href="assets/naac/5.2.1(1).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.2.1(1).pdf" target="_blank" class="doc-link">
                         <span>5.2.1(1) Offer letter of Placed Students and Admission letters of students enrolled in higher education during AY 2021-22</span>
                     </a>
                 </li>
                 <li class="doc-item">
-                    <a href="assets/naac/5.2.1(2).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.2.1(2).pdf" target="_blank" class="doc-link">
                         <span>5.2.1(2) Offer letter of Placed Students and Admission letters of students enrolled in higher education during AY 2020-21</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/5.2.1(3).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.2.1(3).pdf" target="_blank" class="doc-link">
                         <span>5.2.1(3) Offer letter of Placed Students and Admission letters of students enrolled in higher education during AY 2019-20</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/5.2.1(4).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.2.1(4).pdf" target="_blank" class="doc-link">
                         <span>5.2.1(4) Offer letter of Placed Students and Admission letters of students enrolled in higher education during AY 2018-19</span>
                     </a>
                 </li>
                  <li class="doc-item">
-                    <a href="assets/naac/5.2.1(5).pdf" target="_blank" class="doc-link">
+                    <a href="assets/naac/criteria-5/5.2.1(5).pdf" target="_blank" class="doc-link">
                         <span>5.2.1(5) Offer letter of Placed Students and Admission letters of students enrolled in higher education during AY 2017-18</span>
                     </a>
                 </li>
