@@ -283,7 +283,7 @@
                 </div>
             </a>
             
-            <a href="#" class="doc-card">
+            <a href="naac-criteria-2.php" class="doc-card">
                 <div class="card-icon"><i class="fas fa-chalkboard-teacher"></i></div>
                 <div class="card-content">
                     <h4>Criteria 2</h4>
